@@ -15,9 +15,5 @@ During training, the *generator* progressively becomes better at creating images
 
 ![A second diagram of a generator and discriminator](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/images/gan2.png?raw=1)
 
-This notebook demonstrates this process on the MNIST dataset. The following animation shows a series of images produced by the *generator* as it was trained for 50 epochs. The images begin as random noise, and increasingly resemble hand written digits over time.
-
-![sample output](https://tensorflow.org/images/gan/dcgan.gif)
-
-To learn more about GANs, we recommend MIT's [Intro to Deep Learning](http://introtodeeplearning.com/) course.
+This notebook demonstrates this process on the FASHION-MNIST dataset and created 10 new articles of clothing.
 
